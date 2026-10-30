@@ -1,0 +1,344 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "60782": {
+      "importer": "gltf-material",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@60782",
+      "displayName": "",
+      "id": "60782",
+      "name": "texture-a.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00956": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@00956",
+      "displayName": "",
+      "id": "00956",
+      "name": "leg-left.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08a31": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@08a31",
+      "displayName": "",
+      "id": "08a31",
+      "name": "leg-right.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "644e9": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@644e9",
+      "displayName": "",
+      "id": "644e9",
+      "name": "arm-left.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6fcf8": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@6fcf8",
+      "displayName": "",
+      "id": "6fcf8",
+      "name": "arm-right.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e97a2": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@e97a2",
+      "displayName": "",
+      "id": "e97a2",
+      "name": "head.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1af60": {
+      "importer": "gltf-mesh",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@1af60",
+      "displayName": "",
+      "id": "1af60",
+      "name": "torso.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f3dc": {
+      "importer": "gltf-animation",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@7f3dc",
+      "displayName": "",
+      "id": "7f3dc",
+      "name": "walk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "df3f2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@df3f2",
+      "displayName": "",
+      "id": "df3f2",
+      "name": "texture-a.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture",
+        "compressSettings": {
+          "useCompressTexture": true,
+          "presetId": "13IlH/sK5Csa5I7x9YSK65"
+        }
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a1915f13-8b5a-4376-83e8-f63c0830783e@df3f2"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78ba9": {
+      "importer": "gltf-scene",
+      "uuid": "a1915f13-8b5a-4376-83e8-f63c0830783e@78ba9",
+      "displayName": "",
+      "id": "78ba9",
+      "name": "Hero.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "texture-a",
+        "uri": "a1915f13-8b5a-4376-83e8-f63c0830783e@df3f2"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@00956",
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@08a31",
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@644e9",
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@6fcf8",
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@e97a2",
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@1af60"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@e39f7"
+      ],
+      "materials": [
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@60782"
+      ],
+      "scenes": [
+        "a1915f13-8b5a-4376-83e8-f63c0830783e@78ba9"
+      ]
+    },
+    "materials": {
+      "a1915f13-8b5a-4376-83e8-f63c0830783e@60782": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_INSTANCING": true,
+            "USE_TEXTURE": true
+          },
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "a1915f13-8b5a-4376-83e8-f63c0830783e@e39f7",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    },
+    "animationImportSettings": [
+      {
+        "name": "walk",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "walk",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2,
+            "previousId": "7f3dc"
+          }
+        ]
+      }
+    ]
+  }
+}
